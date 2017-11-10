@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Indian Coast Guard</title>
+</head>
+<body>
+<center><font size="6"><font color="orange"><u><b><i>Welcome to Indian Coast Guard</i></b></u></font></font><hr></center>
+
+
+
+
+</body>
+</html>
